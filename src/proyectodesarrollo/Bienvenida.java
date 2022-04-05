@@ -13,7 +13,7 @@ import java.util.Date;
 
 /**
  *
- * @author kevin
+ * @author Kevin, Isabella, Steven, Johan, Steven
  */
 public class Bienvenida extends javax.swing.JFrame implements Runnable {
         
